@@ -1,0 +1,6 @@
+interface:
+  display_name: "Example Skill"
+  short_description: "Template for new skills"
+# For a user-invoked skill, also add:
+# policy:
+#   allow_implicit_invocation: false

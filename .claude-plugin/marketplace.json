@@ -1,0 +1,20 @@
+{
+  "name": "guangbochen",
+  "owner": {
+    "name": "guangbochen"
+  },
+  "description": "guangbochen's skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "guangbochen-skills",
+      "source": "./",
+      "description": "guangbochen's agent skills.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "productivity"
+      ]
+    }
+  ]
+}
