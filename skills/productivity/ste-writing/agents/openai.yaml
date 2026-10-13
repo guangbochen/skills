@@ -1,0 +1,6 @@
+interface:
+  display_name: "STE Writing"
+  short_description: "Write and review prose in ~80% ASD-STE100 Simplified Technical English"
+# Model-invoked: no policy block. For a user-invoked skill, add:
+# policy:
+#   allow_implicit_invocation: false

@@ -63,6 +63,16 @@ Skills live in bucket folders under `skills/`. Only `engineering/` and `producti
 - [misc](./skills/misc/README.md): kept around, rarely used
 - [deprecated](./skills/deprecated/README.md): no longer used
 
+Promoted skills, grouped by invocation mode:
+
+**User-invoked**
+
+_None yet._
+
+**Model-invoked**
+
+- [ste-writing](./skills/productivity/ste-writing/SKILL.md): write and review prose deliverables (PRDs, specs, design docs, proposals) in ~80% ASD-STE100 Simplified Technical English.
+
 ## Developing this repo
 
 The conventions (bucket rules, plugin manifest sync, docs pages, invocation modes, releases) live in [AGENTS.md](./AGENTS.md), the default agent-instructions file; [CLAUDE.md](./CLAUDE.md) is a symlink to it for Claude Code. Run `scripts/link-skills.sh` to symlink the skills into your local harnesses for daily use.
